@@ -10,4 +10,5 @@ If you hear a commercial that isn't saved already, you can double right click an
 Run this first: killCommercialsAutomatically.ahk
 
 Requires Winamp and AutoHotkey
+
 Radionomy stations: http://www.jbcse.com/downloads/radionomy.m3u
