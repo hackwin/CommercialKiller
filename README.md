@@ -1,5 +1,5 @@
 # CommercialKiller
-This is my attempt to detect and bypass radio commercials.
+This program is an attempt to detect and bypass radio commercials.
 
 Audio from stereo mix is stored in a 5 second buffer.
 Every half a second, more audio is put into the queue buffer and the old audio is dequeued (FIFO).  
