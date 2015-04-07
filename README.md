@@ -6,7 +6,7 @@ Every half a second, more audio is put into the queue buffer and the old audio i
 
 After new data is collected, commercials are searched for in the buffer.  A commercial is a subset of bytes in the playback buffer queue.
 
-If you hear a commercial, you can double right click and it will save the last five seconds
+If you hear a commercial that isn't saved already, you can double right click and it will save the last five seconds
 Run this first: killCommercialsAutomatically.ahk
 
 Requires Winamp and AutoHotkey
