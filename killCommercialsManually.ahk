@@ -11,7 +11,7 @@
 SendMode Input  ; Recommended for new scripts due to its superior speed and reliability.
 SetWorkingDir %A_ScriptDir%  ; Ensures a consistent starting directory.
 
-;Double Right Click to paste
+;Double Right Click
 ~RButton::
 If (A_PriorHotKey = A_ThisHotKey and A_TimeSincePriorHotkey < 350)
 {
