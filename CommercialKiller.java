@@ -28,8 +28,8 @@ public class CommercialKiller {
     int bufferSizeSeconds = 5;
     
     static final long RECORD_TIME = -1;//60*1000; // record duration, in milliseconds
-    boolean shouldStop = false;
-    boolean saveCommercial = false; // used get an exit signal from another thread
+    boolean shouldStop = false; // used get an exit signal from another thread
+    boolean saveCommercial = false;
     ArrayList<Commercial> commercials;
     
     String logFile = "log.txt";
