@@ -2,7 +2,7 @@
 // 2015-04-07
 // www.jbcse.com
 
-// This program records commercials and attempts to detect repeated commercials.  Not currently working, stereo mix is noisy and doesn't repeat perfectly.
+// This program records commercials and attempts to detect repeated commercials.  Not currently working, stereo mix is too noisy and doesn't repeat perfectly.
 // It listens to audio via stereo mix.  Not all computers have stereo mix.
 // Keyboard commands: "s" to save a commercial (saves last bufferSizeSeconds seconds, default is 5), "q" to close safely
 // Requires: C:/Program Files/AutoHotkey/AutoHotkey.exe
